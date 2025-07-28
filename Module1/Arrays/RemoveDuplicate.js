@@ -9,7 +9,6 @@ function removeDuplicates(nums) {
     }
   }
   console.log(x + 1);
-  console.log(nums);
 
   return x + 1;
 }
